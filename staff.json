@@ -1,0 +1,19 @@
+[
+    {
+        "staff_number": "001",
+        "first_name": "Myasha ",
+        "last_name": "Witboi",
+        "job_description": "Manager",
+        "work_phone_number": "0827523814",
+        "work_email_address": "earthenwarelegance@gmail.com",
+        "image": "myasha_witboi.jpg"
+    },
+    {
+        "staff_number": "002",
+        "first_name": "Magret",
+        "last_name": "Skosana",
+        "job_description": "Sales Associate",
+        "work_phone_number": "0607893455",
+        "image": "magret_skosana.jpg"
+    },
+    
